@@ -1,4 +1,4 @@
-# probability-calculator
+# probability calculator
 A jupyter notebook full of stats and probability calculation and visualization tools. A handy guide for the backend functionality of this program.
 * Permutations and Combinations
 * Bayesian Probability
