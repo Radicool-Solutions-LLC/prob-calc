@@ -12,8 +12,8 @@ Current functionality
 * P value
 * Card game probability
    
-## jupytern notebook
-A jupyter notebook full of stats and probability calculation and visualization tools. A handy guide for the backend functionality of this program.
+## jupyter notebook
+Acts as a handy guide for the backend functionality of this program.
 
 # to-do:
 * front-end
