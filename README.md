@@ -1,5 +1,7 @@
-# probability calculator
-A jupyter notebook full of stats and probability calculation and visualization tools. A handy guide for the backend functionality of this program.
+# probability calculator (web app version)
+Currently contains:
+## backend
+Current functionality
 * Permutations and Combinations
 * Bayesian Probability
 * Bayesian probability visualization
@@ -9,7 +11,9 @@ A jupyter notebook full of stats and probability calculation and visualization t
 * Probability Density Function
 * P value
 * Card game probability
+   
+## jupytern notebook
+A jupyter notebook full of stats and probability calculation and visualization tools. A handy guide for the backend functionality of this program.
 
 # to-do:
-* train a small LLM to determine what kind of probability problem you're facing and run the proper function in the backend 
 * front-end
