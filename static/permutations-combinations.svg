@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Define grid pattern for cones with brown background -->
+  <defs>
+    <pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#D2691E"/>
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="black" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  
+  <!-- Ice cream scoops as semicircles with outlines -->
+  <path d="M30 90 A20 25 0 0 1 70 90" fill="#8B4513" stroke="black" stroke-width="2"/> <!-- Brown ice cream -->
+  <path d="M80 90 A20 25 0 0 1 120 90" fill="#FFB6C1" stroke="black" stroke-width="2"/> <!-- Pink ice cream -->
+  <path d="M130 90 A20 25 0 0 1 170 90" fill="#FFD700" stroke="black" stroke-width="2"/> <!-- Yellow ice cream -->
+
+  <!-- Smush effects (small semicircles) -->
+  <!-- Brown Semicircles -->
+  <path d="M70 89 A5 5 0 0 1 60 89" fill="#8B4513" stroke="black" stroke-width="1"/>
+  <path d="M60 89 A5 5 0 0 1 50 89" fill="#8B4513" stroke="black" stroke-width="1"/>
+  <path d="M50 89 A5 5 0 0 1 40 89" fill="#8B4513" stroke="black" stroke-width="1"/>
+  <path d="M40 89 A5 5 0 0 1 30 89" fill="#8B4513" stroke="black" stroke-width="1"/>
+
+  <!-- Pink Semicircles -->
+  <path d="M120 89 A5 5 0 0 1 110 89" fill="#FFB6C1" stroke="black" stroke-width="1"/>
+  <path d="M110 89 A5 5 0 0 1 100 89" fill="#FFB6C1" stroke="black" stroke-width="1"/>
+  <path d="M100 89 A5 5 0 0 1 90 89" fill="#FFB6C1" stroke="black" stroke-width="1"/>
+  <path d="M90 89 A5 5 0 0 1 80 89" fill="#FFB6C1" stroke="black" stroke-width="1"/>
+
+  <!-- Yellow Semicircles -->
+  <path d="M170 89 A5 5 0 0 1 160 89" fill="#FFD700" stroke="black" stroke-width="1"/>
+  <path d="M160 89 A5 5 0 0 1 150 89" fill="#FFD700" stroke="black" stroke-width="1"/>
+  <path d="M150 89 A5 5 0 0 1 140 89" fill="#FFD700" stroke="black" stroke-width="1"/>
+  <path d="M140 89 A5 5 0 0 1 130 89" fill="#FFD700" stroke="black" stroke-width="1"/>
+
+  <!-- Cones pointing up, offset to the right, with brown grid pattern -->
+  <path d="M75 160 L55 105 L95 105 Z" fill="url(#grid)" stroke="brown" stroke-width="2"/> <!-- Brown cone, moved right -->
+  <path d="M125 160 L105 105 L145 105 Z" fill="url(#grid)" stroke="black" stroke-width="2"/> <!-- Dark brown cone, moved right -->
+</svg>
+

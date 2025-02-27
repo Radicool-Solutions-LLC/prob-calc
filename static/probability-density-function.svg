@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <path d="M20 180 Q100 20 180 180" fill="none" stroke="#000" stroke-width="2"/> <!-- Bell curve -->
+  <line x1="140" y1="100" x2="140" y2="180" stroke="#FF0000" stroke-width="2"/> <!-- 50% height -->
+  <!-- Shaded area contained within curve -->
+  <path d="M20 180 Q100 20 140 85 L140 180 Z" fill="rgba(0,0,255,0.3)" clip-path="url(#clip1)"/> <!-- Blue area -->
+  <defs>
+    <clipPath id="clip1">
+      <path d="M20 180 Q100 20 180 180 L180 200 L20 200 Z"/> <!-- Clip to bell curve -->
+    </clipPath>
+  </defs>
+</svg>
+
