@@ -1,5 +1,9 @@
 # probability calculator (web app version)
-Currently contains:
+An easy to use and understand probability calculator with visualizations. Makes it way easy to digest probability concepts. 
+
+## Front-end
+Currently on vercel! Check it out [here (WIP)](https://v0-prob-calc-version-1-1.vercel.app/)
+
 ## backend
 Current functionality
 * Permutations and Combinations
@@ -13,7 +17,8 @@ Current functionality
 * Card game probability
    
 ## jupyter notebook
-Acts as a handy guide for the backend functionality of this program.
+Acts as a handy and easy to use guide for the backend functionality of this program.
 
 # to-do:
-* front-end
+* front-end: make graphs and visualizations work. May need to rewrite all visualization code in typescript. 
+* AI (track development on the AI branch)
