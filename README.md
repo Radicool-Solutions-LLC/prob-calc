@@ -1,5 +1,5 @@
 # probability calculator ("prob-calc")
-A jupyter notebook full of stats and probability calculation and visualization tools. Easy to use and understand. Makes it way easy to digest probability concepts. 
+A jupyter notebook full of stats and probability calculation and visualization tools. Easy to use and understand. Makes it way easier to digest probability concepts. 
 Current functionality:
 * Permutations and Combinations
 * Bayesian Probability
