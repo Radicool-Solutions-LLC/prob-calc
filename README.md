@@ -3,6 +3,7 @@ An easy to use and understand probability calculator with visualizations. Makes 
 
 ## Front-end
 Currently on vercel! Check it out [here (WIP)](https://v0-prob-calc-version-1-1.vercel.app/)
+* to see the frontend source code, click [here.](https://vercel.com/radicool-solutions-projects/v0-prob-calc-version-1-1/C7xihfvTs8ECnZAX9YTc7mNmHQcj/source)
 
 ## backend
 Current functionality
