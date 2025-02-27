@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Robot head - square shape -->
+  <rect x="40" y="40" width="120" height="120" fill="#E6E6FA" stroke="#4B0082" stroke-width="4" rx="10"/>
+  <!-- Yellow lightbulb eyes -->
+  <circle cx="80" cy="90" r="15" fill="#FFD700"/> <!-- Left eye -->
+  <circle cx="120" cy="90" r="15" fill="#FFD700"/> <!-- Right eye -->
+  <!-- Antenna -->
+  <line x1="100" y1="40" x2="100" y2="20" stroke="#4B0082" stroke-width="4"/>
+  <circle cx="100" cy="15" r="5" fill="#4B0082"/>
+</svg>
+
