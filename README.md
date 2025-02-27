@@ -26,6 +26,6 @@ A jupyter notebook full of stats and probability calculation and visualization t
 
 ## Current branches
 * [Webapp branch:](https://github.com/Radicool-Solutions-LLC/prob-calc/tree/branch_1_(webapp-attempt)) WIP attempt to make a web app with GUI. Working on making visualizations work.
-	* [Available here[(https://v0-prob-calc-version-1-1.vercel.app/), *but I recommend using the jupyter notebook version found on this branch instead.*  
+	* [Available here](https://v0-prob-calc-version-1-1.vercel.app/), *but I recommend using the jupyter notebook version found on this branch instead.*  
 	
 * [AI branch:](https://github.com/Radicool-Solutions-LLC/prob-calc/tree/AI_stuff) WIP. A small NLP AI program to determine what kind of probability problem you have (assuming it falls within the categories listed previously) 
