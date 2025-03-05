@@ -1,6 +1,6 @@
 # probability calculator ("prob-calc")
 A jupyter notebook full of stats and probability calculation and visualization tools. Easy to use and understand. Makes it way easier to digest probability concepts.  
-**Now with a GUI!** Download it, or use it online at [mybinder.org](https://hub.2i2c.mybinder.org/user/radicool-solutions-llc-prob-calc-tgjyfem8/lab/tree/probability%20calculator%20functions.ipynb) 
+**Now with a GUI!** Download it, or use it online at [mybinder.org](https://hub.2i2c.mybinder.org/user/radicool-solutions-llc-prob-calc-8ht90hq6/doc/tree/probability%20calculator%20functions.ipynb) 
   
 **Current functions:**  
 * Permutations and Combinations
